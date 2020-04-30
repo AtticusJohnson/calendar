@@ -281,8 +281,8 @@ a:link, a:visited{    /*背景色未设置成功*/
 }
 
 #note {
-  float：right;
-  margin:1.1em 6em;
+  float: right;
+  margin:1.5em 6em;
   width:4.5em;
   text-align: center;
 }
