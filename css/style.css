@@ -243,7 +243,7 @@ a:link, a:visited{    /*背景色未设置成功*/
 #today, #note {
 	position:absolute;
 	float:left;
-	margin:1.2em 0.5em;
+	margin:1.2em 0.8em;
   height:2.0em;
   width:5.0em;
   color:#ffffff;
