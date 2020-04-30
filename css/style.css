@@ -243,9 +243,9 @@ a:link, a:visited{    /*背景色未设置成功*/
 #today, #note {
 	position:absolute;
 	float:left;
-	margin:1.2em 0.8em;
-  height:2.0em;
-  width:5.0em;
+	margin:1.5em 0.8em;
+  height:5.0em;
+  width:7.0em;
   color:#ffffff;
   background-color:#ededed;
   font-size:0.5em;
@@ -282,8 +282,9 @@ a:link, a:visited{    /*背景色未设置成功*/
 
 #note {
   float: right;
-  margin:1.5em 6em;
-  width:4.5em;
+  margin:1.5em 3em;
+  height:5.0em;
+  width:7.0em;
   text-align: center;
 }
 
